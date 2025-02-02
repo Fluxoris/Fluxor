@@ -1,0 +1,3 @@
+[submodule "fluxor-core"]
+	path = argon-core
+	url = https://github.com/Fluxoris/fluxor-core.git
